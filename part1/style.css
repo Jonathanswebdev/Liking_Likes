@@ -1,0 +1,76 @@
+
+
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@400;700&display=swap");
+
+* {
+margin: 0px;
+font-family: "Balsamiq Sans", cursive;
+  /* outline: 1px dashed red; */
+}
+
+#NavBar {
+width: 760px;
+color: rgb(251, 249, 249);
+background-color: rgb(8, 7, 7);
+padding: 10px 20px;
+margin-bottom: 20px;
+}
+
+.feedHeader {
+padding: 10px 20px;
+text-align: center;
+}
+
+.container {
+margin: 0 auto;
+width: 800px;
+}
+
+.main {
+}
+
+.profilecard {
+border: 3px solid black;
+text-align: center;
+border-radius: 5px;
+}
+
+img {
+border-radius: 50%;
+background-color: #fff;
+height: 85px;
+padding: 5px;
+margin-top: 30px;
+}
+
+.usercard2 {
+margin-bottom: 10px;
+border: 3px solid black;
+border-radius: 5px;
+padding: 15px;
+}
+
+/* Filler text */
+.card-top {
+margin-bottom: 10px;
+margin-right: 10px;
+}
+
+/* the likes button */
+.flex {
+display: flex;
+justify-content: space-between;
+gap: 25px;
+}
+
+.justifySpace {
+justify-content: space-between;
+}
+
+.btn {
+background-color: #ffd966;
+margin-left: 10px;
+border: 2px solid black;
+box-shadow: 3px 3px black;
+padding: 5px 10px;
+}
